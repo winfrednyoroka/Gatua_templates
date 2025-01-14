@@ -1,21 +1,23 @@
-# Title
+# Project Title
 
-## Motivation / Rationale
+## Abstract
+1. Motivation / Rationale
+2. Methods
+3. Results
+   a.Implementation
+  b. Validation
+4. Conclusion
 
-## Methods
-## Results
-  ### Implementation
-  ### Validation
-## Conclusion
-
+## Data availability
+The data used in this work are found ...
 ## Software
+The software needed to run ...
 ## Usage
-
-## Authors
-1. xxxxx
+To use this you need to ...
 
 # Acknowledgement
 This piece of work was ...
 
-# Contact details
+## Authors
+1. xxxxx
 
